@@ -1,5 +1,4 @@
 
-![image](https://github.com/SimranWebDeveloper/resturan-app/assets/112202814/b7ccffc7-d596-4a76-9874-ed26ffe3152b)
 
 # Welcome to your Expo app 👋
 
